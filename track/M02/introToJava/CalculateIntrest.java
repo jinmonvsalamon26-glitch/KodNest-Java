@@ -22,6 +22,9 @@ public class CalculateIntrest {
         int mark5 = 88;
         int totalMarks = mark1 + mark2 + mark3 + mark4 + mark5;
         double percentage = (double) totalMarks * 100.0 / 500;
+        System.out.println("Simple Intrest: " + simpleintrest);
+        System.out.println("Total Amount: " + totalAmount);
+        System.out.println("BMI: " + bmi);
         System.out.println("Total Marks: " + totalMarks);
         System.out.println("Percentage: " + percentage);
 
