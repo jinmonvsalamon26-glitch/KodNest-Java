@@ -33,6 +33,6 @@ class Methods {
         int luckyNumber = obj.getLuckyNumber();
         System.out.println("Lucky_ Number:" + luckyNumber);
         int sum = obj.add(first, second);
-        System.out.println("Sum:" + sum);
+        System.out.println("Sum is : " + sum);
     }
 }
