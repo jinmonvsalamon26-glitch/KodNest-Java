@@ -1,7 +1,5 @@
 
-
-
-    ic class TraceSensorReadings {
+public class TraceSensorReadings {
 
     public static void main(String[] args) {
         int[] readings = {8, 21, 20, 24, 19};
