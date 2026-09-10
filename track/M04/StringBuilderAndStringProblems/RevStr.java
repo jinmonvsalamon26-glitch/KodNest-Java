@@ -6,7 +6,7 @@ public class RevStr {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the String");
-        String str = scanner.next();
+        String str = scanner.nextLine();
         char arr[] = str.toCharArray();
         char newArr[] = new char[arr.length];
         int j = newArr.length - 1;
